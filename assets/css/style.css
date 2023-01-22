@@ -1,0 +1,7 @@
+.delete {
+    color: red;
+}
+
+.post-submit, .post-cancel {
+    margin: 0.5rem 0;
+}
